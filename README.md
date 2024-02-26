@@ -15,7 +15,7 @@
     </tr>
 </table>
 
-## Project Components and Functionalities:
+## ⚙Project Components and Functionalities:⚙
 - **Authentication Module:**
 
   - Allows users to register with a unique full name, email, and password.
@@ -36,3 +36,65 @@
   - Organizes posts into categories and showcases them on the main interface.
   - Facilitates easy navigation and discovery of content based on user interests.
   - Presents detailed views of individual posts upon selection, including full content, author information, and posting time.
+- **Category Navigation:**
+  - Organizes posts into different categories or topics.
+  - Facilitates easy navigation and discovery of relevant content.
+  - Enables users to browse posts based on their interests.
+- **Author Showcase:**
+  - Showcases information about registered authors.
+  - Displays author profiles including name, profile picture, and bio.
+  - Highlights the number of posts authored by each user.
+- **Profile Management:**
+  - Allows authors to update their profile information.
+  - Provides options to change profile picture, update bio, and modify contact details.
+  - Ensures data consistency and integrity across user profiles.
+- **Advanced Text Editor:**
+  - Offers a user-friendly interface for creating and editing post content.
+  - Includes advanced formatting tools such as font styles, text colors, and alignment options.
+  - Supports spell-checking and auto-save functionalities for a seamless writing experience.
+- **Security Features:**
+  - Implements secure authentication mechanisms to protect user accounts.
+  - Utilizes encryption techniques to safeguard sensitive data such as passwords and personal information.
+  - Implements measures to prevent unauthorized access and data breaches.
+- **Responsive Design:**
+  - Ensures the website is optimized for various devices and screen sizes.
+  - Adapts layout and content dynamically to provide a consistent user experience across desktop, tablet, and mobile platforms.
+- **Search Functionality:**
+  - Integrates a search feature for users to find specific posts or topics.
+  - Enables keyword-based searching within post titles, content, and categories.
+  - Enhances usability by helping users quickly locate relevant information.
+ 
+## Application Overview📝:-
+
+<table>
+    <tr>
+	<td> LOGIN MODULE </td>
+        <td><img src="https://github.com/dhrupad17/Book-Management-System/assets/91726340/6fa6901c-eb22-42a2-a962-10f3edd13cdd"></td>
+    </tr>
+  <tr>
+	<td> REGISTRATION MODULE </td>
+        <td><img src="https://github.com/dhrupad17/Book-Management-System/assets/91726340/7e80b54b-4f81-4872-9fef-aa7c3adc237b"></td>
+    </tr>
+ <tr>
+	<td> BASIC OVERVIEW MODULE (Show all posts/ Posts by each categories) </td>
+        <td><img src="https://github.com/dhrupad17/Book-Management-System/assets/91726340/82a67b66-bb52-4d56-9e9a-bcb7b95b1a7a"></td>
+    </tr>
+ <tr>
+	<td> AUTHOR'S PROFILE FUNCTIONALITY MODULE </td>
+        <td><img src="https://github.com/dhrupad17/Book-Management-System/assets/91726340/ba12a9ed-d821-4d7a-9f8b-2c1de828168d"></td>
+    </tr>
+ <tr>
+	<td> CREATE POST MODULE </td>
+        <td><img src="https://github.com/dhrupad17/Book-Management-System/assets/91726340/5f9c97a5-73f1-43ca-933d-cec537b61a96"></td>
+    </tr>
+	 <tr>
+	<td> EDIT POST MODULE </td>
+        <td><img src="https://github.com/dhrupad17/Book-Management-System/assets/91726340/c344d4e8-f1a5-4663-81f9-a64bf10bd400"></td>
+    </tr>
+	 <tr>
+	<td> DELETE POST MODULE </td>
+        <td><img src="https://github.com/dhrupad17/Book-Management-System/assets/91726340/7834dab5-aa1a-4319-9f7a-25bd7488ebd4"></td>
+    </tr>
+</table>
+
+
